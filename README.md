@@ -6,3 +6,5 @@
 
 ✨ This project was created as part of my learning journey and practice as a future full-stack developer.
 
+🌀💻
+
